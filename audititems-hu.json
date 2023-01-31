@@ -1,0 +1,281 @@
+[
+    {
+        "id": 1001,
+        "area": "Exterior",
+        "items": [
+            {
+                "id": 1,
+                "title": "Kezelői engedély",
+                "description": "Ellenőrizze, hogy a Kezelői engedély jelen van-e és nem járt le."
+            },
+            {
+                "id": 2,
+                "title": "Karosszéria védő rúd",
+                "description": "Ellenőrizze, hogy a fa rúd a helyén van -e."
+            },
+            {
+                "id": 3,
+                "title": "Elülső útvonal kijelző",
+                "description": "A vak a helyes útvonalszámot és célt mutatja az útvonalhoz?"
+            },
+            {
+                "id": 4,
+                "title": "Külső tükröks",
+                "description": "Ellenőrizze, hogy a tükrök biztonságosak, tiszták és a megfelelő helyzetben vannak-e."
+            },
+            {
+                "id": 5,
+                "title": "Szélvédő",
+                "description": "Ellenőrizze, hogy a szélvédő tiszta és hibátlan."
+            },
+            {
+                "id": 6,
+                "title": "Ablaktörlők",
+                "description": "Ellenőrizze, hogy az ablaktörlők tiszták és biztonságosak-e."
+            },
+            {
+                "id": 7,
+                "title": "Első lámpák",
+                "description": "Ellenőrizze, hogy minden lámpa (futólámpák, távolsági/tompított fényszórók, oldalsó lámpák, vészvillogók) tiszta-e és megfelelően működik-e."
+            },
+            {
+                "id": 8,
+                "title": "Első rendszámtábla",
+                "description": "Ellenőrizze, hogy a rendszámtábla tiszta és olvasható-e."
+            },
+            {
+                "id": 9,
+                "title": "Első karosszéria",
+                "description": "Ellenőrizze a karosszéria tisztaságát és minden hibát."
+            },
+            {
+                "id": 10,
+                "title": "Alátét töltősapka",
+                "description": "(HA NEM ELÉRHETŐ, AKKOR Érintse meg az OKÉT)\n\nEllenőrizze, hogy a mosósapka megfelelően fel van-e zárva."
+            },
+            {
+                "id": 11,
+                "title": "Üzemanyagbetöltő sapka",
+                "description": "Ellenőrizze, hogy az üzemanyagtartály sapka jól zárva van -e. A radiátor kupakja biztonságos."
+            },
+            {
+                "id": 12,
+                "title": "Jobboldali első kerék",
+                "description": "Ellenőrizze, hogy a kerék biztonságos-e, és nincsenek-e nyilvánvaló hibák. Az abroncs vizuálisan helyesen van felfújva, sérülésektől mentes és megfelelő futófelületi mélységgel rendelkezik. A \"Check Links\" helyesen van felszerelve (egyik sem hiányzik, eltört vagy torz), vagy a \"Mókus\" fel van szerelve és fel van tüntetve a táblán?"
+            },
+            {
+                "id": 13,
+                "title": "Jobboldali Reklámtábla",
+                "description": "Ellenőrizze hogy a hirdetőtábla biztonságos."
+            },
+            {
+                "id": 14,
+                "title": "Jobboldali fényszórók",
+                "description": "Ellenőrizze, hogy működik-e a visszajelző lámpa és az oldalsó menetlámpa, ha van."
+            },
+            {
+                "id": 15,
+                "title": "Jobboldali hátsó kerék",
+                "description": "Ellenőrizze, hogy a kerék biztonságos-e, és nincsenek-e nyilvánvaló hibák. Az abroncs vizuálisan helyesen van felfújva, sérülésektől mentes és megfelelő futófelületi mélységgel rendelkezik. A \"ellenőrző linkek\" helyesen vannak felszerelve (egyik sem hiányzik, törött vagy torz) vagy a \"mókus \" felszerelve és feltüntetve a táblán?"
+            },
+            {
+                "id": 16,
+                "title": "Jobboldali vészkijárat",
+                "description": "(HA NEM SZERELT, ÉS nyomja meg az OK gombot.)\n\nEllenőrizze helyesen, és hallja-e az ajtó figyelmeztetését. \nMEGJEGYZÉS: Egyes járművek üvegtörő kalapáccsal rendelkeznek."
+            },
+            {
+                "id": 17,
+                "title": "Hűtőfolyadék",
+                "description": "Ellenőrizze a hűtőfolyadék szintjét a külső ablakon vagy a nyomógombos eszközön keresztül."
+            },
+            {
+                "id": 18,
+                "title": "Karosszéria jobb oldal",
+                "description": "Ellenőrizze a karosszéria tisztaságát és minden hibát."
+            },
+            {
+                "id": 19,
+                "title": "Hátsó útvonal száma",
+                "description": "A kijelző a helyes útvonalszámot mutatja?"
+            },
+            {
+                "id": 20,
+                "title": "Hátsó vészkijárat",
+                "description": "(HA NINCS JELEN NYOMJON OKAY) \n\nEllenőrizze helyesen, és hallja-e az ajtó figyelmeztetését.\nMEGJEGYZÉS: Egyes járművek üvegtörő kalapáccsal rendelkeznek."
+            },
+            {
+                "id": 21,
+                "title": "Hátsó fényszórók",
+                "description": "Ellenőrizze, hogy az összes lámpa (hátsó lámpák, vészvillogók) tiszták és megfelelően működnek -e."
+            },
+            {
+                "id": 22,
+                "title": "Hátsó rendszámtábla",
+                "description": "Ellenőrizze, hogy a hátsó szám tiszta, olvasható-e és a lámpák működnek-e."
+            },
+            {
+                "id": 23,
+                "title": "Hátsó karosszéria munka",
+                "description": "Ellenőrizze a karosszéria tisztaságát és minden hibát."
+            },
+            {
+                "id": 24,
+                "title": "Jobboldali hátsó kerék",
+                "description": "Ellenőrizze, hogy a kerék biztonságos-e, és nincsenek-e nyilvánvaló hibák. Az abroncs vizuálisan helyesen van felfújva, sérülésektől mentes és megfelelő futófelületi mélységgel rendelkezik. A \"ellenőrző linkek\" helyesen vannak felszerelve (egyik sem hiányzik, törött vagy torz) vagy a \"mókus\" felszerelve és feltüntetve a táblán?"
+            },
+            {
+                "id": 25,
+                "title": "Hátsó ajtó(k)",
+                "description": "Ellenőrizze, hogy a hátsó ajtó (k) kívülről nyithatók -e, és az érzékeny széle megfelelően működik -e (biztonsági okokból a test bármely részét nem szabad erre használni). Ellenőrizze, hogy a platform jó állapotban van-e és meg van-e világítva."
+            },
+            {
+                "id": 26,
+                "title": "Az Access Bell letiltása",
+                "description": "Ellenőrizze a csengőhangokat a gombok megnyomásakor."
+            },
+            {
+                "id": 27,
+                "title": "Hirdetőtábla baloldal",
+                "description": "Ellenőrizze hogy a hirdetőtábla biztonságos."
+            },
+            {
+                "id": 28,
+                "title": "Első kerék baloldal",
+                "description": "Ellenőrizze, hogy a kerék biztonságos-e, és nincsenek-e nyilvánvaló hibák. Az abroncs vizuálisan helyesen van felfújva, sérülésektől mentes és megfelelő futófelületi mélységgel rendelkezik. A \"ellenőrző linkek\" helyesen vannak felszerelve (egyik sem hiányzik, törött vagy torz) vagy a \"mókus\" felszerelve és feltüntetve a táblán?"
+            },
+            {
+                "id": 29,
+                "title": "Első ajtó",
+                "description": "Ellenőrizze, hogy az első ajtók kívülről nyithatók-e. Ellenőrizze, hogy a platform jó állapotban van-e és meg van-e világítva."
+            },
+            {
+                "id": 30,
+                "title": "Karosszéria baloldal",
+                "description": "Ellenőrizze a karosszéria tiszta és hibáktól mentes."
+            },
+            {
+                "id": 31,
+                "title": "Levegő/folyadék szivárgások",
+                "description": "Ellenőrizze a levegő és a folyadék szivárgását a busz alatt."
+            }
+        ]
+    },
+    {
+        "id": 1002,
+        "area": "Interior",
+        "items": [
+            {
+                "id": 101,
+                "title": "Tűzoltó készülék",
+                "description": "Ellenőrizze, hogy a tűzoltó készülék a dátumban van -e, a mérő a megfelelő területen van -e, és a csap a helyén van -e. Ellenőrizze, hogy a rámpa szerszám megvan-e."
+            },
+            {
+                "id": 102,
+                "title": "Alsó fedélzeti ülések",
+                "description": "Ellenőrizze, hogy az ülések jó állapotban vannak, tiszták és biztonságosak."
+            },
+            {
+                "id": 103,
+                "title": "Alsó fedélzeti harangok",
+                "description": "Ellenőrizze, hogy minden csengőgomb működik -e."
+            },
+            {
+                "id": 104,
+                "title": "Alsó fedélzeti lámpák",
+                "description": "Ellenőrizze, hogy az összes szalon lámpa működik-e."
+            },
+            {
+                "id": 105,
+                "title": "Kapaszkodók",
+                "description": "Ellenőrizze, hogy minden kapaszkodó rögzítve van -e."
+            },
+            {
+                "id": 106,
+                "title": "Alsó fedélzeti emelet",
+                "description": "Ellenőrizze, hogy az alsó fedélzet padlója tiszta -e és mentes -e a balesetveszélytől."
+            },
+            {
+                "id": 107,
+                "title": "EMELETES?",
+                "description": "Van -e felső szintje a busznak?",
+                "isDouble": true
+            },
+            {
+                "id": 108,
+                "title": "Lépcsőház(ok)",
+                "description": "Ellenőrizze, hogy a kapaszkodó biztonságosan működik -e, és a padló tiszta -e, és nincs -e balesetveszély."
+            },
+            {
+                "id": 109,
+                "title": "Felső fedélzeti ülések",
+                "description": "Ellenőrizze, hogy az ülések jó állapotban vannak, tiszták és biztonságosak."
+            },
+            {
+                "id": 110,
+                "title": "Felső fedélzeti harangok",
+                "description": "Ellenőrizze, hogy minden csengőgomb működik -e."
+            },
+            {
+                "id": 111,
+                "title": "Felső fedélzeti fények",
+                "description": "Ellenőrizze, hogy az összes limuzin megfelelően működik-e."
+            },
+            {
+                "id": 112,
+                "title": "Felső fedélzeti vészkijárat",
+                "description": "(HA NINCS TELJESÍTETT, AKKOR Érintse meg az OKÉT)\n\nEllenőrizze, hogy megfelelően van-e nyitva, és hallható-e az ajtó figyelmeztetés.\n MEGJEGYZÉS: Egyes járműveken üvegtörő típusú vészkijáratok vannak."
+            },
+            {
+                "id": 113,
+                "title": "Felső emeleti emelet",
+                "description": "Ellenőrizze, hogy a felső szint padlója tiszta-e és mentes-e a botlásveszélytől."
+            }
+        ]
+    },
+    {
+        "id": 1003,
+        "area": "Cab",
+        "items": [
+            {
+                "id": 201,
+                "title": "A vezető pozíciója",
+                "description": "Ellenőrizze, hogy a vezetőülés rögzítve van-e. A kormánykerék beállítás után reteszelődik."
+            },
+            {
+                "id": 202,
+                "title": "Szélvédőmosó",
+                "description": "Megfelelően működnek az ablaktörlők és az alátétek?\n\n(Győződjön meg arról, hogy az alátéteket használták a tesztelés során - az ablaktörlőket NEM szabad száraz képernyőn használni)."
+            },
+            {
+                "id": 203,
+                "title": "CCTV",
+                "description": "Győződjön meg arról, hogy a CCTV működik, a hátsó ajtók lathatók(nyitva) és a belső ülések(zárva)."
+            },
+            {
+                "id": 204,
+                "title": "Assault Screen",
+                "description": "Biztonságos a fülke képernyője, és a COVID-19 lezárva van a fülke tisztítása után."
+            },
+            {
+                "id": 205,
+                "title": "Térdelő eszköz",
+                "description": "Ellenőrizze a busz térdét megfelelően."
+            },
+            {
+                "id": 206,
+                "title": "Kézifék figyelmeztetés",
+                "description": "Működik a kézifékre figyelmeztető üzenet, ha a kézifék ki van kapcsolva és a fülke ajtaja nyitva van?"
+            },
+            {
+                "id": 207,
+                "title": "Rámpa",
+                "description": "Működik a rámpa, és hallható a figyelmeztető hang?"
+            },
+            {
+                "id": 208,
+                "title": "Bármilyen egyéb hiba",
+                "description": "Minden olyan kategória, amelyet nem fednek le meghatározott területek. pl motor, fék stb"
+            }
+        ]
+    }
+]
