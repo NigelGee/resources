@@ -1,0 +1,281 @@
+[
+    {
+        "id": 1001,
+        "area": "Exterior",
+        "items": [
+            {
+                "id": 1,
+                "title": "Licencja operatora",
+                "description": "Sprawdź, czy licencja operatora jest widoczna i ma poprawną datę."
+            },
+            {
+                "id": 2,
+                "title": "Pręt antykolizyjny (drzewa)",
+                "description": "Sprawdź, czy pręt antykolizyjny jest na swoim miejscu."
+            },
+            {
+                "id": 3,
+                "title": "Roleta przednia",
+                "description": "Czy roleta pokazują prawidłowy numer trasy i miejsce docelowe dla trasy?"
+            },
+            {
+                "id": 4,
+                "title": "Lustra zewnętrzne",
+                "description": "Sprawdź, czy lusterka są zabezpieczone, czyste i we właściwej pozycji."
+            },
+            {
+                "id": 5,
+                "title": "Przednia szyba",
+                "description": "Sprawdź, czy przednia szyba jest czysta i wolna od wad."
+            },
+            {
+                "id": 6,
+                "title": "Wycieraczki",
+                "description": "Sprawdź, czy wycieraczki są czyste i bezpieczne."
+            },
+            {
+                "id": 7,
+                "title": "Światła przednie",
+                "description": "Sprawdź, czy wszystkie światła (światła do jazdy, światła drogowe/mijania, światła pozycyjne, światła awaryjne) są czyste i działają prawidłowo."
+            },
+            {
+                "id": 8,
+                "title": "Przednia tablica rejestracyjna",
+                "description": "Sprawdź, czy karoseria jest czysta i wolna od wad."
+            },
+            {
+                "id": 9,
+                "title": "Przednia część pojazdu",
+                "description": "Sprawdź, czy karoseria jest czysta i wolna od wad."
+            },
+            {
+                "id": 10,
+                "title": "Korek wlewu spryskiwacza",
+                "description": "(JEŚLI NIE DOSTĘPNE NACIŚNIJ OK)\n\nSprawdź, czy nasadka spryskiwacza jest dobrze założona."
+            },
+            {
+                "id": 11,
+                "title": "Korek wlewu paliwa",
+                "description": "Sprawdź, czy korek wlewu paliwa jest dobrze zamknięty i czy korek chłodnicy jest zabezpieczony."
+            },
+            {
+                "id": 12,
+                "title": "Przednie koło po stronie drogi",
+                "description": "Sprawdź, czy koło jest zabezpieczone i wolne od widocznych wad. Opona jest wizualnie prawidłowo napompowana, wolna od uszkodzeń i ma wystarczającą głębokość bieżnika. Czy „Linki sprawdzające ” są prawidłowo zamontowane (żadnego nie brakuje, nie są uszkodzone lub zniekształcone) lub „Squirrel ” jest zamontowany i odnotowany na białej tablicy?"
+            },
+            {
+                "id": 13,
+                "title": "Tablica ogłoszeniowa po stronie drogi",
+                "description": "Sprawdź, czy tablica ogłoszeniowa jest bezpieczna."
+            },
+            {
+                "id": 14,
+                "title": "Światła po stronie drogi",
+                "description": "Sprawdź, czy lampka kontrolna i światło do jazdy bocznej działają jeśli są zamontowane."
+            },
+            {
+                "id": 15,
+                "title": "Tylne koło po stronie drogi",
+                "description": "Sprawdź, czy koło jest zabezpieczone i wolne od widocznych wad. Opona jest wizualnie prawidłowo napompowana, wolna od uszkodzeń i ma wystarczającą głębokość bieżnika. Czy „Linki sprawdzające ” są prawidłowo zamontowane (żadnego nie brakuje, nie są uszkodzone lub zniekształcone) lub „Squirrel ” jest zamontowany i odnotowany na białej tablicy?"
+            },
+            {
+                "id": 16,
+                "title": "Wyjście awaryjne po stronie drogi",
+                "description": "(JEŚLI NIE ZAMONTOWANO KLIKNIJ OK )\n\nSprawdź prawidłowe otwarcie i słyszalność ostrzeżenia o drzwiach.\n UWAGA: Niektóre pojazdy mają wyjścia awaryjne przez okna."
+            },
+            {
+                "id": 17,
+                "title": "Płyn chłodzący",
+                "description": "Sprawdź poziom płynu chłodzącego przez zewnętrzne okienko lub przycisk."
+            },
+            {
+                "id": 18,
+                "title": "Sprawdzenie karoserii od strony drogi",
+                "description": "Sprawdź, czy karoseria jest czysta i wolna od wad."
+            },
+            {
+                "id": 19,
+                "title": "Numer trasy w tylnej części",
+                "description": "Czy niewidomy pokazuje prawidłowy numer trasy?"
+            },
+            {
+                "id": 20,
+                "title": "Tylne wyjście awaryjne",
+                "description": "(JEŚLI NIE JEST ZAMONTOWANY KLIKNIJ OK)\n\nSprawdź prawidłowe otwarcie i słyszalność ostrzeżenia o drzwiach.\n UWAGA: Niektóre pojazdy mają wyjścia awaryjne typu: 'Wybij szybę'"
+            },
+            {
+                "id": 21,
+                "title": "Tylne światła",
+                "description": "Sprawdź, czy wszystkie światła (tylne, światła awaryjne) są czyste i działają prawidłowo./Sprawdź również, czy reflektory są czyste i nie są uszkodzone."
+            },
+            {
+                "id": 22,
+                "title": "Tylna tablica rejestracyjna",
+                "description": "Sprawdź, czy tylny numer jest czysty, czytelny, a światła działają."
+            },
+            {
+                "id": 23,
+                "title": "Karoseria z tyłu / tył pojazdu",
+                "description": "Sprawdź, czy karoseria jest czysta i wolna od wad."
+            },
+            {
+                "id": 24,
+                "title": "Prawe tylne koło",
+                "description": "Sprawdź, czy koło jest zabezpieczone i wolne od widocznych wad. Opona jest wizualnie prawidłowo napompowana, wolna od uszkodzeń i ma wystarczającą głębokość bieżnika. Czy „Linki sprawdzające ” są prawidłowo zamontowane (żadnego nie brakuje, nie są uszkodzone lub zniekształcone) lub „Squirrel ” jest zamontowany i odnotowany na białej tablicy?"
+            },
+            {
+                "id": 25,
+                "title": "Tylne drzwi",
+                "description": "Sprawdź, czy tylne drzwi można otworzyć od zewnątrz i czy listwa krawędziowa działa prawidłowo (ze względów bezpieczeństwa żadna część nadwozia nie powinna być używana do tego celu). Sprawdź, czy platforma jest w dobrym stanie i oświetlona."
+            },
+            {
+                "id": 26,
+                "title": "Wyłącz dzwonek dostępu",
+                "description": "Sprawdź dźwięk dzwonka podczas naciskania przycisków."
+            },
+            {
+                "id": 27,
+                "title": "Tablica reklamowa po stronie krawężnika",
+                "description": "Sprawdź, czy tablica ogłoszeniowa jest bezpieczna."
+            },
+            {
+                "id": 28,
+                "title": "Przednie koło od strony krawężnika",
+                "description": "Sprawdź, czy koło jest zabezpieczone i wolne od widocznych wad. Opona jest wizualnie prawidłowo napompowana, wolna od uszkodzeń i ma wystarczającą głębokość bieżnika. Czy „Linki sprawdzające ” są prawidłowo zamontowane (żadnego nie brakuje, nie są uszkodzone lub zniekształcone) lub „Squirrel ” jest zamontowany i odnotowany na białej tablicy?"
+            },
+            {
+                "id": 29,
+                "title": "Drzwi wejściowe",
+                "description": "Sprawdź, czy przednie drzwi można otworzyć od zewnątrz. Sprawdź, czy platforma jest w dobrym stanie i oświetlona."
+            },
+            {
+                "id": 30,
+                "title": "Od strony krawężnika",
+                "description": "Sprawdź, czy karoseria jest czysta i wolna od wad."
+            },
+            {
+                "id": 31,
+                "title": "Wycieki powietrza/płynów",
+                "description": "Sprawdź, czy pod autobusem nie ma wycieków powietrza i płynów."
+            }
+        ]
+    },
+    {
+        "id": 1002,
+        "area": "Interior",
+        "items": [
+            {
+                "id": 101,
+                "title": "Gaśnicar",
+                "description": "Sprawdź, czy gaśnica jest aktualna, wskaźnik znajduje się we właściwym miejscu, a kołek jest na swoim miejscu. Sprawdź, czy narzędzie do rampy jest obecne."
+            },
+            {
+                "id": 102,
+                "title": "Siedzenia na dolnym pokładzie",
+                "description": "Sprawdź, czy fotele są w dobrym stanie, czyste i bezpieczne."
+            },
+            {
+                "id": 103,
+                "title": "Dzwony dolnego pokładu",
+                "description": "Sprawdź, czy wszystkie przyciski dzwonka działają."
+            },
+            {
+                "id": 104,
+                "title": "Światła dolnego pokładu",
+                "description": "Sprawdź, czy wszystkie światła działają."
+            },
+            {
+                "id": 105,
+                "title": "Uchwyty ręczne",
+                "description": "Sprawdź, czy wszystkie uchwyty są bezpieczne."
+            },
+            {
+                "id": 106,
+                "title": "Podłoga dolnego pokładu",
+                "description": "Sprawdź, czy podłoga dolnego pokładu jest czysta i wolna od ryzyka potknięcia."
+            },
+            {
+                "id": 107,
+                "title": "DWUPOKŁADOWY?",
+                "description": "Czy autobus ma górny pokład?",
+                "isDouble": true
+            },
+            {
+                "id": 108,
+                "title": "Schody",
+                "description": "Sprawdź, czy poręcz jest bezpieczna, światła działają, a podłoga jest czysta i wolna od ryzyka potknięcia."
+            },
+            {
+                "id": 109,
+                "title": "Siedzenia na górnym pokładzie",
+                "description": "Sprawdź, czy fotele są w dobrym stanie, czyste i bezpieczne."
+            },
+            {
+                "id": 110,
+                "title": "Dzwony na górnym pokładzie",
+                "description": "Sprawdź, czy fotele są w dobrym stanie, czyste i bezpieczne."
+            },
+            {
+                "id": 111,
+                "title": "Światła na górnym pokładzie",
+                "description": "Sprawdź, czy wszystkie światła działają prawidłowo."
+            },
+            {
+                "id": 112,
+                "title": "Wyjście awaryjne z górnego pokładu",
+                "description": "(JEŚLI NIE ZAINSTALOWANO, TO NACIŚNIJ OK)\n\nSprawdź prawidłowość otwierania i słyszalność ostrzeżenia o drzwiach.\n UWAGA: Niektóre pojazdy mają wyjścia awaryjne typu:'Wybij szybę'."
+            },
+            {
+                "id": 113,
+                "title": "Piętro na górnym pokładzie",
+                "description": "Sprawdź, czy podłoga górnego pokładu jest czysta i wolna od ryzyka potknięcia."
+            }
+        ]
+    },
+    {
+        "id": 1003,
+        "area": "Cab",
+        "items": [
+            {
+                "id": 201,
+                "title": "Pozycja kierowcy",
+                "description": "Sprawdź, czy siedzenie kierowcy jest bezpieczne. Kierownica blokuje się po regulacji."
+            },
+            {
+                "id": 202,
+                "title": "Wycieraczki szyby przedniej",
+                "description": "Czy wycieraczki i spryskiwacze przedniej szyby działają prawidłowo?\n\n(Upewnij się, że podczas testowania używane są spryskiwacze – wycieraczek NIE wolno używać na suchej szybie)."
+            },
+            {
+                "id": 203,
+                "title": "CCTV",
+                "description": "Upewnij się, że CCTV działa pokazując tylne drzwi (kiedy otwarte) i wnętrze siedzenia innym razem."
+            },
+            {
+                "id": 204,
+                "title": "Ekran szturmowy",
+                "description": "Czy osłona kabiny jest bezpieczna i zapieczętowana wobec COVID-19 po wyczyszczeniu kabiny."
+            },
+            {
+                "id": 205,
+                "title": "Boczne opuszczanie zawieszenia",
+                "description": "Sprawdź czy autobus prawidłowo opuszcza zawieszenie."
+            },
+            {
+                "id": 206,
+                "title": "Ostrzeżenie o hamulcu ręcznym",
+                "description": "Czy komunikat ostrzegawczy hamulca ręcznego działa, gdy hamulec ręczny jest wyłączony, a drzwi kabiny otwarte?"
+            },
+            {
+                "id": 207,
+                "title": "Rampa",
+                "description": "Czy rampa działa, a dźwięk ostrzegawczy jest słyszalny?"
+            },
+            {
+                "id": 208,
+                "title": "Wszelkie inne wady",
+                "description": "Wszelkie kategorie, które nie są objęte określonymi obszarami. np. silnik, hamulce itp."
+            }
+        ]
+    }
+]
