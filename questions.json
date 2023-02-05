@@ -158,8 +158,6 @@
     {
         "id": 7,
         "text": "When were busses invented?",
-        "image": "",
-        "label": "",
         "answers": [
             {
                 "id": 1,
@@ -186,8 +184,6 @@
     {
         "id": 8,
         "text": "Where were busses invented?",
-        "image": "",
-        "label": "",
         "answers": [
             {
                 "id": 1,
@@ -214,8 +210,6 @@
     {
         "id": 9,
         "text": "Which Country has the most busses?",
-        "image": "",
-        "label": "",
         "answers": [
             {
                 "id": 1,
