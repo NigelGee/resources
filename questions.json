@@ -157,7 +157,7 @@
     },
     {
         "id": 7,
-        "text": "When were busses invented?",
+        "text": "When were buses invented?",
         "answers": [
             {
                 "id": 1,
@@ -183,7 +183,7 @@
     },
     {
         "id": 8,
-        "text": "Where were busses invented?",
+        "text": "Where were buses invented?",
         "answers": [
             {
                 "id": 1,
@@ -209,7 +209,7 @@
     },
     {
         "id": 9,
-        "text": "Which Country has the most busses?",
+        "text": "Which Country has the most buses?",
         "answers": [
             {
                 "id": 1,
@@ -232,5 +232,83 @@
                 "correct": true
             }
         ]
-    }
+    },
+    {
+        "id": 10,
+        "text": "What the name of the triple decker buses",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Scary Bus",
+                "correct": false
+            },
+            {
+                "id": 2,
+                "text": "Knight Bus",
+                "correct": false
+            },
+            {
+                "id": 3,
+                "text": "Magic Bus",
+                "correct": false
+            },
+            {
+                "id": 4,
+                "text": "Queen Bus",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "text": "Which is more Eco-friendly",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Bus",
+                "correct": true
+            },
+            {
+                "id": 2,
+                "text": "Car",
+                "correct": false
+            },
+            {
+                "id": 3,
+                "text": "Lorry",
+                "correct": false
+            },
+            {
+                "id": 4,
+                "text": "Motorbike",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "text": "What colour are school buses in America",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Red",
+                "correct": false
+            },
+            {
+                "id": 2,
+                "text": "blue",
+                "correct": false
+            },
+            {
+                "id": 3,
+                "text": "Yellow",
+                "correct": true
+            },
+            {
+                "id": 4,
+                "text": "Black",
+                "correct": false
+            }
+        ]
+    },
 ]
