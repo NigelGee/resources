@@ -311,4 +311,82 @@
             }
         ]
     },
+    {
+        "id": 13,
+        "text": "Which of these are NOT allowed on a bus?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Open bottles/cans of alcohol",
+                "correct": false
+            },
+            {
+                "id": 2,
+                "text": "Unfolded bicycles",
+                "correct": false
+            },
+            {
+                "id": 3,
+                "text": "Objects more then two metres long",
+                "correct": false
+            },
+            {
+                "id": 4,
+                "text": "All of the above",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "text": "Which of these are allowed on a bus?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Anything hazardous or inflammable",
+                "correct": false
+            },
+            {
+                "id": 2,
+                "text": "Anything one customer cannot carry by themselves",
+                "correct": false
+            },
+            {
+                "id": 3,
+                "text": "Small oxygen cylinders, which a passenger may need for medical reasons",
+                "correct": true
+            },
+            {
+                "id": 4,
+                "text": "Anything likely to cause injury or offence",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "text": "When should not you re-open the doors?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "When you have left the stop",
+                "correct": false
+            },
+            {
+                "id": 2,
+                "text": "At traffic lights",
+                "correct": false
+            },
+            {
+                "id": 3,
+                "text": "Before you start indicating",
+                "correct": true
+            },
+            {
+                "id": 4,
+                "text": "When a another road user gives way",
+                "correct": false
+            }
+        ]
+    },
 ]
