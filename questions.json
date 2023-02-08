@@ -2,6 +2,7 @@
     {
         "id": 1,
         "text": "What colour is a London Bus?",
+        "isBus": false,
         "answers": [
             {
                 "id": 1,
@@ -28,6 +29,7 @@
     {
         "id": 2,
         "text": "What does the DVLA charge for?",
+        "isBus": false,
         "answers": [
             {
                 "id": 1,
@@ -54,6 +56,7 @@
     {
         "id": 3,
         "text": "How many passenger can the largest bus carry?",
+        "isBus": false,
         "answers": [
             {
                 "id": 1,
@@ -80,6 +83,7 @@
     {
         "id": 4,
         "text": "Why are London's buses red?",
+        "isBus": false,
         "answers": [
             {
                 "id": 1,
@@ -106,6 +110,7 @@
     {
         "id": 5,
         "text": "The word \"Bus\" comes from which Latin Word?",
+        "isBus": false,
         "answers": [
             {
                 "id": 1,
@@ -132,6 +137,7 @@
     {
         "id": 6,
         "text": "How many buses are there in London?",
+        "isBus": false,
         "answers": [
             {
                 "id": 1,
@@ -158,6 +164,7 @@
     {
         "id": 7,
         "text": "When were buses invented?",
+        "isBus": false,
         "answers": [
             {
                 "id": 1,
@@ -184,6 +191,7 @@
     {
         "id": 8,
         "text": "Where were buses invented?",
+        "isBus": false,
         "answers": [
             {
                 "id": 1,
@@ -210,6 +218,7 @@
     {
         "id": 9,
         "text": "Which Country has the most buses?",
+        "isBus": false,
         "answers": [
             {
                 "id": 1,
@@ -236,6 +245,7 @@
     {
         "id": 10,
         "text": "What the name of the triple decker buses",
+        "isBus": false,
         "answers": [
             {
                 "id": 1,
@@ -262,6 +272,7 @@
     {
         "id": 11,
         "text": "Which is more Eco-friendly",
+        "isBus": false,
         "answers": [
             {
                 "id": 1,
@@ -288,6 +299,7 @@
     {
         "id": 12,
         "text": "What colour are school buses in America",
+        "isBus": false,
         "answers": [
             {
                 "id": 1,
@@ -314,6 +326,7 @@
     {
         "id": 13,
         "text": "Which of these are NOT allowed on a bus?",
+        "isBus": true,
         "answers": [
             {
                 "id": 1,
@@ -340,6 +353,7 @@
     {
         "id": 14,
         "text": "Which of these are allowed on a bus?",
+        "isBus": true,
         "answers": [
             {
                 "id": 1,
@@ -366,6 +380,7 @@
     {
         "id": 15,
         "text": "When should not you re-open the doors?",
+        "isBus": true,
         "answers": [
             {
                 "id": 1,
