@@ -255,7 +255,7 @@
             {
                 "id": 2,
                 "text": "Knight Bus",
-                "correct": false
+                "correct": true
             },
             {
                 "id": 3,
