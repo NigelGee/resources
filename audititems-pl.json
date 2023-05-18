@@ -1,7 +1,7 @@
 [
     {
         "id": 1001,
-        "area": "Zewnętrzny",
+        "area": "Exterior",
         "items": [
             {
                 "id": 1,
@@ -140,21 +140,26 @@
             },
             {
                 "id": 28,
+                "title": "Nazwa firmy",
+                "description": "Sprawdź, czy wyświetlana jest nazwa i adres firmy. Sprawdź, czy wyświetlana jest również masa własna."
+            },
+            {
+                "id": 29,
                 "title": "Przednie koło od strony krawężnika",
                 "description": "Sprawdź, czy koło jest zabezpieczone i wolne od widocznych wad. Opona jest wizualnie prawidłowo napompowana, wolna od uszkodzeń i ma wystarczającą głębokość bieżnika. Czy „Linki sprawdzające ” są prawidłowo zamontowane (żadnego nie brakuje, nie są uszkodzone lub zniekształcone) lub „Squirrel ” jest zamontowany i odnotowany na białej tablicy?"
             },
             {
-                "id": 29,
+                "id": 30,
                 "title": "Drzwi wejściowe",
                 "description": "Sprawdź, czy przednie drzwi można otworzyć od zewnątrz. Sprawdź, czy platforma jest w dobrym stanie i oświetlona."
             },
             {
-                "id": 30,
+                "id": 31,
                 "title": "Od strony krawężnika",
                 "description": "Sprawdź, czy karoseria jest czysta i wolna od wad."
             },
             {
-                "id": 31,
+                "id": 32,
                 "title": "Wycieki powietrza/płynów",
                 "description": "Sprawdź, czy pod autobusem nie ma wycieków powietrza i płynów."
             }
@@ -162,7 +167,7 @@
     },
     {
         "id": 1002,
-        "area": "Wnętrze",
+        "area": "Interior",
         "items": [
             {
                 "id": 101,
@@ -234,7 +239,7 @@
     },
     {
         "id": 1003,
-        "area": "Taksówka",
+        "area": "Cab",
         "items": [
             {
                 "id": 201,
