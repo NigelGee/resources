@@ -1,7 +1,7 @@
 [
     {
         "id": 1001,
-        "area": "Külső",
+        "area": "Exterior",
         "items": [
             {
                 "id": 1,
@@ -140,21 +140,26 @@
             },
             {
                 "id": 28,
+                "title": "Cégnév",
+                "description": "Ellenőrizze, hogy megjelenik-e a cég neve és címe. Ellenőrizze, hogy az önsúly is megjelenik."
+            },
+            {
+                "id": 29,
                 "title": "Első kerék baloldal",
                 "description": "Ellenőrizze, hogy a kerék biztonságos-e, és nincsenek-e nyilvánvaló hibák. Az abroncs vizuálisan helyesen van felfújva, sérülésektől mentes és megfelelő futófelületi mélységgel rendelkezik. A \"ellenőrző linkek\" helyesen vannak felszerelve (egyik sem hiányzik, törött vagy torz) vagy a \"mókus\" felszerelve és feltüntetve a táblán?"
             },
             {
-                "id": 29,
+                "id": 30,
                 "title": "Első ajtó",
                 "description": "Ellenőrizze, hogy az első ajtók kívülről nyithatók-e. Ellenőrizze, hogy a platform jó állapotban van-e és meg van-e világítva."
             },
             {
-                "id": 30,
+                "id": 31,
                 "title": "Karosszéria baloldal",
                 "description": "Ellenőrizze a karosszéria tiszta és hibáktól mentes."
             },
             {
-                "id": 31,
+                "id": 32,
                 "title": "Levegő/folyadék szivárgások",
                 "description": "Ellenőrizze a levegő és a folyadék szivárgását a busz alatt."
             }
@@ -162,7 +167,7 @@
     },
     {
         "id": 1002,
-        "area": "Belső",
+        "area": "Interior",
         "items": [
             {
                 "id": 101,
@@ -234,7 +239,7 @@
     },
     {
         "id": 1003,
-        "area": "Kabin",
+        "area": "Cab",
         "items": [
             {
                 "id": 201,
