@@ -140,21 +140,26 @@
             },
             {
                 "id": 28,
+                "title": "Company Name",
+                "description": "Check the company name and address is displayed. Check the unladen weight is also displayed."
+            },
+            {
+                "id": 29,
                 "title": "Nearside Front Wheel",
                 "description": "Check the wheel is secure and free obvious defects. The tyre visually correctly inflated, free from damage and have sufficient tread depth. Are the \"Check Links\" correctly fitted (none are missing, broken or distorted) or \"Squirrel\" fitted and indicated on white board?"
             },
             {
-                "id": 29,
+                "id": 30,
                 "title": "Front Door",
                 "description": "Check the front doors can be opened from the outside. Check platform is in good condition and illuminated."
             },
             {
-                "id": 30,
+                "id": 31,
                 "title": "Nearside Body Work",
                 "description": "Check the body work is clean and free from any defects."
             },
             {
-                "id": 31,
+                "id": 32,
                 "title": "Air/Fluid Leaks",
                 "description": "Check for Air and Fluid leaks under the bus."
             }
