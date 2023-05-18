@@ -1,7 +1,7 @@
 [
     {
         "id": 1001,
-        "area": "Extérieur",
+        "area": "Exterior",
         "items": [
             {
                 "id": 1,
@@ -140,21 +140,26 @@
             },
             {
                 "id": 28,
+                "title": "Nom de l'entreprise",
+                "description": "Vérifiez que le nom et l'adresse de l'entreprise sont affichés. Vérifiez que le poids à vide est également affiché."
+            },
+            {
+                "id": 29,
                 "title": "Roue avant latérale",
                 "description": "Vérifiez que la roue est sécurisée et exempte de défauts évidents. Le pneu visuellement correctement gonflé, sans dommage et avec une profondeur de chape suffisante. Les \"Check Links\" sont-ils correctement installés (aucun ne manque, ne sont cassés ou déformés) ou les \"Squirrel\" sont-ils installés et indiqués sur le tableau blanc ?"
             },
             {
-                "id": 29,
+                "id": 30,
                 "title": "Porte d'entrée",
                 "description": "Vérifiez que les portes avant peuvent être ouvertes de l'extérieur. Vérifiez que la plate-forme est en bon état et éclairée."
             },
             {
-                "id": 30,
+                "id": 31,
                 "title": "Travail corporel de proximité",
                 "description": "Vérifiez que la carrosserie est propre et exempte de tout défaut."
             },
             {
-                "id": 31,
+                "id": 32,
                 "title": "Fuites d'air/liquide",
                 "description": "Vérifiez les fuites d'air et de fluide sous le bus."
             }
@@ -162,7 +167,7 @@
     },
     {
         "id": 1002,
-        "area": "Intérieur",
+        "area": "Interior",
         "items": [
             {
                 "id": 101,
@@ -234,7 +239,7 @@
     },
     {
         "id": 1003,
-        "area": "Cabine",
+        "area": "Cab",
         "items": [
             {
                 "id": 201,
