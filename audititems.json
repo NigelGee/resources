@@ -278,6 +278,11 @@
             },
             {
                 "id": 208,
+                "title": "Battery Charge",
+                "description": "Is the vehicle NOT electric?\n\n(If it electric put a the charge amount in a defect report.)"
+            },
+            {
+                "id": 209,
                 "title": "Any Other Defect",
                 "description": "Any Categories that are not covered by specific areas. e.g. Engine, Brakes etc"
             }
