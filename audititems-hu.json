@@ -278,6 +278,11 @@
             },
             {
                 "id": 208,
+                "title": "Akkumulátor töltöttsége",
+                "description": "NEM elektromos a jármű?\n\n(Ha elektromos, a töltési mennyiséget a hibajelentésben kell feltüntetni.)"
+            },
+            {
+                "id": 209,
                 "title": "Bármilyen egyéb hiba",
                 "description": "Minden olyan kategória, amelyet nem fednek le meghatározott területek. pl motor, fék stb"
             }
