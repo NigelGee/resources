@@ -278,6 +278,11 @@
             },
             {
                 "id": 208,
+                "title": "Ładowanie akumulatora",
+                "description": "Czy pojazd NIE jest elektryczny?\n\n(Jeśli jest elektryczny, proszę wpisać poziom naładowania w zgłoszeniu usterki.)"
+            },
+            {
+                "id": 209,
                 "title": "Wszelkie inne wady",
                 "description": "Wszelkie kategorie, które nie są objęte określonymi obszarami. np. silnik, hamulce itp."
             }
