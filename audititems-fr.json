@@ -278,6 +278,11 @@
             },
             {
                 "id": 208,
+                "title": "Charge de la batterie",
+                "description": "Le véhicule n'est-il pas électrique ?\n\n(Si c'est le cas, indiquez la charge dans un rapport de panne.)"
+            },
+            {
+                "id": 209,
                 "title": "Tout autre défaut",
                 "description": "Toutes les catégories qui ne sont pas couvertes par des domaines spécifiques. par exemple moteur, freins, etc."
             }
